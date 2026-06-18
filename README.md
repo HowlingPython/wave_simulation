@@ -185,7 +185,7 @@ La condición de estabilidad usada por el esquema explícito es la condición CF
 
 $$
 \begin{aligned}
-r = \frac{cdt}{dx} \le 1.
+r = \frac{c dt}{dx} \le 1.
 \end{aligned}
 $$
 
